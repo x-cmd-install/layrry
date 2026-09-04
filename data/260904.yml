@@ -7,7 +7,7 @@ about:
   head: 5d2e829
   archived: false
   latestVersion: v1.0.0.Final
-  collectedAt: 2026-09-04T19:58:42Z
+  collectedAt: 2026-09-04T20:41:27Z
 timeline:
   created: 2020-03-07
   lastCommit: 2023-05-03
@@ -80,6 +80,59 @@ total:
   openIssue: 29
   commit: 229
 ---
+path: /home/runner/.x-repo/github.com/moditect/layrry
+collectedAt: 2026-09-04T20:41:28Z
+loc:
+  Java:
+    code: 3954
+    comments: 2190
+    blanks: 994
+    files: 110
+  Xml:
+    code: 2178
+    comments: 706
+    blanks: 161
+    files: 41
+  AsciiDoc:
+    code: 530
+    comments: 3
+    blanks: 119
+    files: 1
+  Sh:
+    code: 214
+    comments: 63
+    blanks: 33
+    files: 1
+  Yaml:
+    code: 159
+    comments: 105
+    blanks: 7
+    files: 7
+  Batch:
+    code: 147
+    comments: 0
+    blanks: 35
+    files: 1
+  Toml:
+    code: 69
+    comments: 60
+    blanks: 4
+    files: 4
+  Markdown:
+    code: 0
+    comments: 18
+    blanks: 5
+    files: 1
+  Text:
+    code: 0
+    comments: 160
+    blanks: 30
+    files: 2
+total:
+  code: 7251
+  comments: 3305
+  blanks: 1388
+  files: 168
 ---
 date: "2026-08-24"
 repo:
