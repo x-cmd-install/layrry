@@ -24,16 +24,6 @@ Total: **7,251** lines of code across **160** files in the top 5 languages.
 | Sh | 214 | 63 | 33 | 1 |
 | Yaml | 159 | 105 | 7 | 7 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.1 / 10**
-
-Lowest-scoring checks:
-
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (0/10) — Found 1/24 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/moditect/layrry>
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-06 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -86,4 +76,4 @@ Install metadata for layrry lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:19:17Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:31:53Z._
